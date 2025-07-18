@@ -47,6 +47,9 @@ Agromarketplace is a full-stack web application that connects farmers and buyers
 
 ![WhatsApp Image 2024-12-31 at 13 03 47_863fd26e](https://github.com/user-attachments/assets/46dc750e-894a-49e1-8c1d-ee82f3bf71ed)
 
+![WhatsApp Image 2024-12-31 at 12 09 59_4c6514c6](https://github.com/user-attachments/assets/3ce6b224-1777-44cd-abf1-cdae76592cf3)
+
+
 ![WhatsApp Image 2024-12-31 at 13 04 26_3599c8de](https://github.com/user-attachments/assets/cc1406b9-a61a-4f16-a648-59af8e3f6d1d)
 
 ![WhatsApp Image 2024-12-31 at 13 08 47_56ff9e54](https://github.com/user-attachments/assets/374076c9-2479-4ed9-9382-f551d989f784)
